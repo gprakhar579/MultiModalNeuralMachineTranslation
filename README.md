@@ -1,1 +1,1 @@
-# MultiModal_NeuralMachineTranslation
+# MultiModalNeuralMachineTranslation
